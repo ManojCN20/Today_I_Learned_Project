@@ -2,7 +2,8 @@
 
 [Click Here](https://today-i-learned-manthya20.netlify.app/) to Use App!!!
 
-<img width="1427" alt="Screenshot 2023-03-27 at 7 37 04 PM" src="https://user-images.githubusercontent.com/103304537/227963807-e9a6726e-7e6f-48d7-92f4-7396c1479520.png">
+![Screenshot 2023-03-28 at 2 40 24 PM](https://user-images.githubusercontent.com/103304537/228238582-fbc0c446-b51e-4308-ac5d-d9868632ebe6.png)
+
 
 
 # Getting Started with Create React App
