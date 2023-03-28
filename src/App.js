@@ -250,7 +250,6 @@ function Fact(props) {
       <p>
         {isDisputed ? <span className="disputed">[⛔️ DISPUTED]</span> : null}
         {props.fact.text}
-        {props.fact.text}
         <a
           className="source"
           rel="noreferrrer"
